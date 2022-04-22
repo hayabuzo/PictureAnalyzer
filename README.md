@@ -1,4 +1,4 @@
-# PictureAnalyzer (python, skimage, numpy)
+# PictureAnalyzer (python 3, skimage, numpy)
 Script for analyzing and sorting image files by color, brightness, details.
 
 ![image](https://user-images.githubusercontent.com/38255514/164472639-6b7b4f7f-3d9f-4615-884a-bb55324399b5.png)
