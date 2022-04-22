@@ -16,7 +16,7 @@ You can turn on the visualisation ("preview" in line 203) to see the measurement
 ![image](https://user-images.githubusercontent.com/38255514/164474626-5be378de-591a-46d1-a399-0035161c5f63.png)
 
 Above is the balance and below is the quantity of:
-* CYAN - total balance
-* WHITE - brightness
-* GREEN - details
-* RED - saturation
+* **CYAN** - total balance
+* **WHITE** - brightness
+* **GREEN** - details
+* **RED** - saturation
