@@ -20,3 +20,8 @@ Above is the balance and below is the quantity of:
 * **WHITE** - brightness
 * **GREEN** - details
 * **RED** - saturation
+
+## How to work:
+1. Put the input images into _'input/'_ folder.
+2. Install **skimage** and **numpy** if necessary, run the script.
+4. The output images will appear in the _'output/'_ folder.
