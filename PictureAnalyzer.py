@@ -200,7 +200,7 @@ def xsort(folder,filt,filp,vis,chan):
             img = img_as_ubyte(img)  
 
         # расчитываем показатели анализа изображения
-        tx, px, clr, mlr, slr, mtype, wf, cf, sf, imout = xshift(img, preview=1, bwmode=convert_mode)
+        tx, px, clr, mlr, slr, mtype, wf, cf, sf, imout = xshift(img, preview=0, bwmode=convert_mode)
         
         # создание визуализаций
         if (vis==1):      
